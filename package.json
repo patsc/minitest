@@ -1,0 +1,16 @@
+{
+  "name": "xshift",
+  "version": "1.0.0",
+  "description": "Test for Minishift",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://patsc@bitbucket.org/patsc/xshift.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/patsc/xshift#readme"
+}
