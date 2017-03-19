@@ -8,7 +8,7 @@
     "start": "node index.js"
   },
   "dependencies" :{
-    "expressjs": "*"
+    "express": "*"
   },
   "repository": {
     "type": "git",
