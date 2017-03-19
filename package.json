@@ -6,11 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "dependencies" :{
+    "expressjs": "*"
+  },
   "repository": {
     "type": "git",
-    "url": "git+https://patsc@bitbucket.org/patsc/xshift.git"
+    "url": "https://github.com/patsc/minitest.git"
   },
   "author": "",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/patsc/xshift#readme"
+  "homepage": "https://github.com/patsc/minitest.git"
 }
