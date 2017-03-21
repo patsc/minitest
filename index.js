@@ -6,6 +6,6 @@ app.get('/', function (req, res) {
   res.send('Hello MiniShift!');
 });
 
-app.listen(3000, function () {
+app.listen(8080, function () {
   console.log('Simple app listening on port 3000!');
 });
